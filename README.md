@@ -1,2 +1,2 @@
 # SSL_Paliza_DeniseAyelen
-Repositorio sintaxis y semántica de los lenguajes 
+Este es mi repositorio para la cursada de Sintaxis y Semantica de Lenguajes.
